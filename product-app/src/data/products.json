@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": 1, "productName": "Mobile", "price": 12000, "brand": "Samsung", "instock": true },
+    { "id": 2, "productName": "Notebook", "price": 120, "brand": "Classmate", "instock": true },
+    { "id": 3, "productName": "Laptop", "price": 120000, "brand": "Samsung", "instock": false },
+    { "id": 4, "productName": "Shoes", "price": 1200, "brand": "Nike", "instock": true }
+  ]
+}
